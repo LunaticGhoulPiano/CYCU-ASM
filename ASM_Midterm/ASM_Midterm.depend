@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1701617571 source:/home/pi/Midterm_project/ASM_Midterm/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1701680335 source:/home/pi/Midterm_project/ASM_Midterm/name.s
+
+1701694595 source:/home/pi/Midterm_project/ASM_Midterm/main.s
+
+1701681131 source:/home/pi/Midterm_project/ASM_Midterm/id.s
+
